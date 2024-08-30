@@ -1,6 +1,7 @@
 # netflix_clone
 
 A new Flutter project.
+A cloned netflic application
 
 ## Getting Started
 
